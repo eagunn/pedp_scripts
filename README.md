@@ -17,7 +17,7 @@ folders under _/oneTimeHacks_ and
 - audit/management scripts should be added under _/utilities/audit_
 
 ## Adding code
-Follow the steps in the [Contributing guide](/CONTRIBUTING.md), specifically for making [code changes](https://github.com/Public-Environmental-Data-Partners/overview/blob/main/CONTRIBUTING.md#code-and-documentation-changes) using Pull Requests.
+Follow the steps in the [Contributing guide](CONTRIBUTING.md), specifically for making [code changes](https://github.com/Public-Environmental-Data-Partners/overview/blob/main/CONTRIBUTING.md#code-and-documentation-changes) using Pull Requests.
 
 ### oneTimeHacks
 The `oneTimeHacks` folder is for code you ran for one archiving project and don't expect to run again. If you add code to the `oneTimeHacks` folder:
