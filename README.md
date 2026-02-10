@@ -28,7 +28,5 @@ The `oneTimeHacks` folder is for code you ran for one archiving project and don'
     - any other notes you want to make about the code you are archiving
 	
 ### utilities
-The `utilities` folder is for reusable code. For now, there's only one folder in this group:
-- audit
-Add other subfolders as needed and please include a readme.txt file 
+The `utilities` folder is for reusable code. Add subfolders as needed and please include a readme.txt file 
 for each folder you create.
