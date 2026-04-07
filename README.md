@@ -16,9 +16,11 @@ of tools. For now, however,
 folders under _/oneTimeHacks_ and
 - audit/management scripts should be added under _/utilities/audit_
 
+## Adding code
+Follow the steps in the [Contributing guide](CONTRIBUTING.md), specifically for making [code changes](https://github.com/Public-Environmental-Data-Partners/overview/blob/main/CONTRIBUTING.md#code-and-documentation-changes) using Pull Requests.
 
 ### oneTimeHacks
-If you add code here:
+The `oneTimeHacks` folder is for code you ran for one archiving project and don't expect to run again. If you add code to the `oneTimeHacks` folder:
 - create a folder for your code, use your own best judgement for a name
 - along with any working code, add a _readme.txt_ file that documents:
     - the URL of the primary web page you were archiving
@@ -26,7 +28,5 @@ If you add code here:
     - any other notes you want to make about the code you are archiving
 	
 ### utilities
-For now, there's only one folder in this group:
-- audit
-Add other subfolders as needed and please include a readme.txt file 
+The `utilities` folder is for reusable code. Add subfolders as needed and please include a readme.txt file 
 for each folder you create.
