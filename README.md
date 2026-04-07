@@ -16,6 +16,7 @@ of tools. For now, however,
 folders under _/DataArchiveProjects_ and
 - auditing and other scripts should be added under _/utilities_
 
+## Adding code
 If you have built code in the course of your work on a PEDP project, 
 we strongly encourage you to share it here. It does not need to be
 perfect or even polished (read some of the existing code if you need
@@ -23,6 +24,9 @@ to be convinced of that ;-). If code was useful to you, it may save
 another contributor or your future self some time and trouble to be
 able to find it here as a starting point for another project.
 
+In general, follow the steps in the [Contributing guide](CONTRIBUTING.md), 
+specifically for making [code changes](https://github.com/Public-Environmental-Data-Partners/overview/blob/main/CONTRIBUTING.md#code-and-documentation-changes) 
+using Pull Requests. In addition, here are some tips specifics to the folders in this repo.
 
 ### DataArchiveProjects
 If you add code here, please:
@@ -41,4 +45,5 @@ For code that is not associated with a specific archiving project, please
 add it to a subfolder here. You're welcome to add code to any existing folder or,
 if none apply, to create a folder of your own. If you add code to an existing
 folder, please update the readme.txt there. If you create a new folder, 
-please also create a readme for it. 
+please include a readme.txt file
+
